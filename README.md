@@ -1,0 +1,4 @@
+jjobs
+=====
+
+jenkins jobs digest
